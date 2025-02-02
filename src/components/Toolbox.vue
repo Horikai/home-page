@@ -89,7 +89,7 @@ setInterval(() => {
       }"
     >
       <img src="/img/gold.png" alt="" />
-      <span>11,451,419</span>
+      <span>198,451,419</span>
     </div>
     <div
       class="toolbox"
@@ -99,7 +99,7 @@ setInterval(() => {
       }"
     >
       <img src="/img/pyroxene.png" alt="" />
-      <span>24,000</span>
+      <span>249,000</span>
     </div>
     <a
       class="about toolbox"
