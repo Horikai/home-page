@@ -3,7 +3,7 @@
   "title": "小鱼档案", // 网站标题
   "description": "有关小鱼的《蔚蓝档案》风格的个人主页", // 网站简介
   "favicon": "/favicon144.png", // 网站图标链接
-  "author": "小鱼yuzifu", // Sensei，你的名字
+  "author": "LuanOri", // Sensei，你的名字
   "keywords": "蔚蓝档案,小鱼yuzifu,个人主页", // 网站关键词描述
   "ICP": "", // ICP备案号
   // PWA配置（https://developer.mozilla.org/zh-CN/docs/Web/Manifest）
@@ -24,7 +24,7 @@
     ]
   },
   // 个人信息
-  "level": 83, // 等级
+  "level": 98, // 等级
   "exp": 8382, // 经验值
   "nextExp": 8381, // 到达下一等级经验值（比exp小则显示满级）
   // Iconfont图标导入
