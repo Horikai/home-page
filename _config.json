@@ -2,7 +2,7 @@
   "title": "小鱼档案",
   "description": "有关小鱼的《蔚蓝档案》风格的个人主页",
   "favicon": "/favicon144.png",
-  "author": "小鱼yuzifu",
+  "author": "LuanOri",
   "keywords": "蔚蓝档案,小鱼yuzifu,个人主页",
   "ICP": "",
   "manifest": {
@@ -24,7 +24,7 @@
       }
     ]
   },
-  "level": 83,
+  "level": 98,
   "exp": 8382,
   "nextExp": 8381,
   "iconfont": "https://at.alicdn.com/t/c/font_4336463_0i6ly0yvyzb.js",
